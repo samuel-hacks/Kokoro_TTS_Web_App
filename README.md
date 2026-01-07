@@ -1,8 +1,8 @@
 ﻿# Kokoro TTS Web App
 
-#Installation:
+# Installation:
 
-#Prerequisites:
+# Prerequisites:
 1) Python 3.8+
 2) Node.js (for the frontend)
 
@@ -41,5 +41,6 @@ The frontend runs on http://localhost:5173.
 The app includes the full suite of Kokoro v1.0 voices:
 
 <img width="823" height="529" alt="image" src="https://github.com/user-attachments/assets/f9ba2c93-7bee-470d-b46a-685f3b10f264" />
+
 
 
